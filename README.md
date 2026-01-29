@@ -17,7 +17,8 @@ This repository contains **basic Java programs** practiced to understand **core 
 * Sorting Algo.
 * Searching
 * Recursion
-* 
+* Stack
+* Queue
 
 ## Purpose
 
@@ -37,4 +38,5 @@ This repository contains **basic Java programs** practiced to understand **core 
 ## Author
 
 Mohd Rizwan Khan
+
 
