@@ -1,42 +1,65 @@
-# Basic Java Practice
+# Java Practice
 
-## Description
+## Overview
 
-This repository contains **basic Java programs** practiced to understand **core Java concepts** such as syntax, control statements, loops, arrays, functions, and object-oriented fundamentals.
+This repository is a **hands-on Java fundamentals and Data Structures practice suite**.
+It focuses on **writing correct, efficient, and readable Java code** to master core language constructs and foundational DSA concepts.
 
-## Topics Covered
+Built for **concept clarity**, **logic building**, and **interview readiness**.
 
-* Java syntax
-* Data types and variables
+---
+
+## 📌 What This Repository Covers
+
+### Core Java
+
+* Java syntax & program structure
+* Data types & variables
 * Operators
-* Conditional statements
-* Loops
-* Arrays
-* Methods
-* Classes and objects
-* Sorting Algo.
-* Searching
+* Conditional statements (`if`, `switch`)
+* Iterative constructs (`for`, `while`, `do-while`)
+* Arrays (1D & 2D)
+* Strings & String handling
+* Methods & parameter passing
+* Classes & Objects
+* OOP principles
+
+### Data Structures & Algorithms
+
+* Sorting algorithms (basic implementations)
+* Searching techniques
 * Recursion
+* Linked List
 * Stack
 * Queue
 
-## Purpose
+All implementations are **from scratch** to ensure conceptual depth.
 
-* Strengthen Java fundamentals
-* Improve logical thinking
+---
 
-## Tools Used
+## 🎯 Objective
 
-* Java (JDK)
-* Any standard IDE (Eclipse / IntelliJ / VS Code)
+* Build **strong Java fundamentals**
+* Develop **problem-solving and algorithmic thinking**
+* Understand **how things work internally**, not just usage
+* Create a solid base for **advanced Java, DSA, and backend development**
 
-## Reference
+---
 
-* *Herbert Schildt – Java: The Complete Reference*
-* Oracle Java Documentation
+## 🛠 Tech Stack
+
+* **Language:** Java 17 (JDK)
+* **IDE:** IntelliJ IDEA 2025
+* **Paradigm:** Object-Oriented Programming
+
+---
+
+## 📚 References
+
+* Oracle Java Official Documentation
+
+---
 
 ## Author
 
-Mohd Rizwan Khan
-
-
+**Mohd Rizwan Khan**
